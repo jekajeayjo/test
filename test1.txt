@@ -1,0 +1,9 @@
+﻿begin
+ввод(n);//длинаа массива
+L:if(x mod 5=0 && x<=n) then goto L1
+вывод x;
+x:=x+5;
+goto L
+L1:end;
+ffh
+sdfsdf
