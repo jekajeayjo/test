@@ -1,4 +1,4 @@
-insert into cities`:` (name, population) values
+﻿insert into cities`:` (name, population) values
 ('Новосибирск,	8),
 ('Екатеринбург,	43),
 ('Нижний Новгород,	90),
@@ -35,7 +35,7 @@ insert into cities`:` (name, population) values
 Липецк	21
 Киров	25
 Чебоксары	5
-Тула	115
+Тулfgfgа	115
 Калининград	-
 Балашиха[16]	-
 Курск	76
